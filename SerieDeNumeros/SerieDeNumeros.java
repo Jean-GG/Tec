@@ -1,3 +1,4 @@
+package SerieDeNumeros;
 public class SerieDeNumeros
 {
     public static void main(String[] args) throws Exception {
